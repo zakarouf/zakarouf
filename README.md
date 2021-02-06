@@ -16,6 +16,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zakarouf&show_icons=true&theme=gruvbox)
 
-- zakarouf.github.io
+- https://zakarouf.github.io
 
 -->
