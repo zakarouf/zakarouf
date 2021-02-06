@@ -14,7 +14,7 @@
 
 ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zakarouf&show_icons=true&theme=gradient)
+![Stats](https://github-readme-stats.vercel.app/api?username=zakarouf&show_icons=true&theme=radical)
 
 - https://zakarouf.github.io
 
