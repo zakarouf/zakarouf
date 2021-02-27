@@ -9,13 +9,16 @@ _/_/_/_/    _/_/_/  _/    _/    _/_/_/  _/          _/_/      _/_/_/    _/
 
 ### Hiya, its [Zak](https://zakarouf.github.io) 👋
 
+- ⚙️ I'm working on ... probably some C,Rust project
+- 📚 I'm currently learning Rust, Node.js, Javascript
 
-  
+<br />
+
+**Contacts**
+
 <a href="https://twitter.com/zakarouf">
     <code><img align="left" alt="Zakarouf | Twitter" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></code>
 </a>
-
-
 
 <br />
 
