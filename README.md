@@ -36,6 +36,10 @@ _/_/_/_/    _/_/_/  _/    _/    _/_/_/  _/          _/_/      _/_/_/    _/
     <img height="22", src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.svg">
   </a>
 </code>
+  <a href="https://github.com/extrawurst/gitui">
+    <img height="22" src="https://github.com/extrawurst/gitui/blob/master/assets/logo.png">
+  </a>
+</code>
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zakarouf&show_icons=true&theme=graywhite)
