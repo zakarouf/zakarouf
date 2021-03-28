@@ -22,7 +22,7 @@ _/_/_/_/    _/_/_/  _/    _/    _/_/_/  _/          _/_/      _/_/_/    _/
 
 <br />
 
-**Languages & Tools**
+**Goodies**
 
 <code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
