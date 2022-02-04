@@ -37,4 +37,9 @@ _/_/_/_/    _/_/_/  _/    _/    _/_/_/  _/          _/_/      _/_/_/    _/
   ![Stats](https://github-readme-stats.vercel.app/api?username=zakarouf&show_icons=true&theme=graywhite)
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zakarouf/count.svg" />
+</p>
+
 - https://zakarouf.github.io
