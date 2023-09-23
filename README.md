@@ -31,12 +31,6 @@ _/_/_/_/    _/_/_/  _/    _/    _/_/_/  _/          _/_/      _/_/_/    _/
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-
-<div align="center">
-
-  ![Stats](https://github-readme-stats.vercel.app/api?username=zakarouf&show_icons=true&theme=graywhite)
-</div>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zakarouf/count.svg" />
