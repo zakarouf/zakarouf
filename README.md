@@ -7,7 +7,7 @@ _/_/_/_/    _/_/_/  _/    _/    _/_/_/  _/          _/_/      _/_/_/    _/
 
 ```
 
-### Hiya, its [Zak](https://zakarouf.github.io) 👋
+### Hiya, its [Dibyanshu Goswami](https://zakarouf.github.io) aka zakarouf 👋
 
 - ⚙️ I'm working on ... probably some C,Rust project
 - 📚 I'm currently learning Node.js, Javascript
